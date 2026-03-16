@@ -2,7 +2,7 @@
 
 ## 🚀 Project Overview
 
-This project demonstrates a complete **data analytics pipeline** that extracts global economic indicators from publicly available data sources and converts them into meaningful insights through an interactive dashboard.
+🔗🛠️⚙️🛢️ This project demonstrates a complete **data analytics ETL pipeline** that extracts global economic indicators from publicly available data sources and converts them into meaningful insights through an interactive dashboard.
 
 Using Python-based data processing, the system collects macroeconomic indicators such as GDP, population, inflation, and unemployment and visualizes trends across countries and time periods.
 
