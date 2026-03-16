@@ -43,16 +43,12 @@ This project demonstrates how automated data extraction and visualization can he
 The project collects global economic indicators such as GDP, population, inflation, and unemployment from the **World Bank Open Data API**.  
 This API provides publicly available economic data for many countries and years.
 
----
-
 ### 2️⃣ Data Extraction using Python  
 📄 **File Used:** `collect_data.py`
 
 A Python script sends requests to the World Bank API and retrieves economic data for different countries and indicators.
 
 The script automatically downloads the raw data in JSON format from the API.
-
----
 
 ### 3️⃣ Structured Dataset Creation  
 📄 **File Used:** `collect_data.py`  
@@ -69,8 +65,6 @@ The dataset includes columns such as:
 
 This structured dataset is then saved as a CSV file.
 
----
-
 ### 4️⃣ Data Cleaning & Preparation  
 📄 **File Used:** `app.py`
 
@@ -84,8 +78,6 @@ Typical steps include:
 
 This step prepares the dataset for visualization.
 
----
-
 ### 5️⃣ Exploratory Data Analysis  
 📄 **File Used:** `app.py`
 
@@ -96,8 +88,6 @@ Examples include:
 - Comparing indicators across countries  
 - Filtering data by year range  
 - Identifying countries with the highest indicator values
-
----
 
 ### 6️⃣ Interactive Visualization Dashboard  
 📄 **File Used:** `app.py`
