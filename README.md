@@ -167,7 +167,7 @@ These insights simulate common **economic and business intelligence analysis tas
 
 ---
 
-## 📁 Project Structure
+## 📁 Project Structure & Output
 
 ```
 web-data-trend-analysis-dashboard
@@ -182,8 +182,7 @@ web-data-trend-analysis-dashboard
 │
 └── app.py
 ```
-
----
+<img width="40%" align="center" alt="Github Image" src="./Output_view.jpg" />
 
 ## 💡 Project Highlights
 
